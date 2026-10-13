@@ -17,7 +17,6 @@ Tenho interesse em tecnologia, desenvolvimento de sistemas e soluções que faci
 ## 🛠️ Tecnologias e habilidades
 
 * 💻 Lógica de programação
-* 🌐 HTML, CSS, JavaScript (básico)
 * 🗄️ Banco de dados (básico)
 * 📊 Pacote Office
 * 📁 Organização de processos
@@ -26,7 +25,6 @@ Tenho interesse em tecnologia, desenvolvimento de sistemas e soluções que faci
 
 ## 📌 Projetos em destaque
 
-🔹 Sistema de Agendamento
 🔹 Gerenciador de Arquivos
 🔹 Portfólio Web
 
